@@ -1,0 +1,50 @@
+/*
+ Theme Name:   Astra Child Theme
+ Theme URI:    https://personalbranding.designbygoodspeed.com/astra-child-theme/
+ Description:  Astra Child Theme based on parent theme Astra
+ Author:       Kenneth Goodspeed
+ Author URI:   https://personalbranding.designbygoodspeed.com
+ Template:     astra
+ Version:      1.1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astrachild
+*/
+
+.main-header-bar {
+  padding: 0px;}
+
+.main-header-menu {
+  font-size: 1.1em;
+}
+
+a.hfe-menu-item {
+  text-transform: uppercase !important;
+  font-size: 1.1em;
+}
+
+.elementor-kit-38 a {
+    color: black;
+}
+
+.elementor-kit-38 a:hover {
+    color: white;
+}
+
+#wpforms-submit-7 {
+  color: black;
+  border-color: black;
+}
+
+
+
+.elementor-kit-38 button {
+  color: black;
+  border-color: black;
+}
+
+.elementor-kit-38 button:hover {
+  background-color: black;
+  color: white !important;
+  border-color: black; }

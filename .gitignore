@@ -1,0 +1,10 @@
+/*
+!.gitignore
+!wp-content/
+wp-content/uploads
+wp-content/languages
+# macOS Files
+.DS_STORE
+Thumbs.db
+.cache
+wp-content/themes/twentytwenty/package-lock.json
